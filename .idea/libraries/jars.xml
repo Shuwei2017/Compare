@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://H:/idea/软件jar/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://H:/idea/软件jar/jars" />
+    </SOURCES>
+    <jarDirectory url="file://H:/idea/软件jar/jars" recursive="false" />
+    <jarDirectory url="file://H:/idea/软件jar/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
